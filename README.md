@@ -1,3 +1,3 @@
 # NumIntro Implementeringer
 
-Se Eksemplet for mere info
+Se eksemplet for mere info
